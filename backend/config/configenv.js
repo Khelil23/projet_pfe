@@ -1,0 +1,17 @@
+DB_LOCAL_URI =
+  "mongodb+srv://tawfik:admin@cluster0.aiioj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+PORT = 4000;
+NODE_ENV = DEVELOPMENT;
+JWT_SECRET = SDJFOW850FJSDFJ4095809DFJGB45FG;
+JWT_EXPIRES_TIME = "7d";
+COOKIE_EXPIRES_TIME = 7;
+
+SMTP_HOST = smtp.mailtrap.io;
+SMTP_PORT = 2525;
+SMTP_EMAIL = "001e63944ff010";
+SMTP_PASSWORD = "03823b353ab750";
+SMTP_FROM_EMAIL = "noreply@shopit.com ";
+SMTP_FROM_NAME = "shopIt";
+CLOUDINARY_CLOUD_NAME = da6fuj52x;
+CLOUDINARY_API_KEY = 143894421114847;
+CLOUDINARY_API_SECRET = lrAE5a3dQQZnYdzIc1Xh7Uo51Ac;
